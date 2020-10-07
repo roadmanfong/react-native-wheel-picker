@@ -13,7 +13,7 @@
   "keywords": [
     "react-native",
     "picker",
-	"wheel"
+    "wheel"
   ],
   "author": "Greg French",
   "license": "MIT",
@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/GregFrench/react-native-wheel-picker#readme",
   "peerDependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "@react-native-community/picker": "^1.8.0"
+  },
+  "devDependencies": {
+    "@react-native-community/picker": "^1.8.0"
   }
 }
